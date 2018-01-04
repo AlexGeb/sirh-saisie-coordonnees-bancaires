@@ -1,5 +1,9 @@
 .highlight {
-  background-color: red;
+  background: rgba(255, 230, 0, 0.5);
+}
+
+table tbody tr {
+  cursor: pointer;
 }
 
 body {
